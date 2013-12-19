@@ -1,0 +1,13 @@
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\bin\Debug\ThirdLabMRZ.exe.config
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\bin\Debug\ThirdLabMRZ.exe
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\bin\Debug\ThirdLabMRZ.pdb
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\ThirdLabMRZ.csprojResolveAssemblyReference.cache
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\MainWindow.baml
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\MainWindow.g.cs
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\App.g.cs
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\ThirdLabMRZ_MarkupCompile.cache
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\ThirdLabMRZ.g.resources
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\ThirdLabMRZ.Properties.Resources.resources
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\ThirdLabMRZ.csproj.GenerateResource.Cache
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\ThirdLabMRZ.exe
+D:\University\C#Projects\mrz3\ThirdLabMRZ\ThirdLabMRZ\obj\Debug\ThirdLabMRZ.pdb
